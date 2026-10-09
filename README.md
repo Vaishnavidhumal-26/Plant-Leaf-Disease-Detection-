@@ -56,9 +56,3 @@ The objective of this project is to use deep learning for image classification a
 - Add more plant species and disease categories.
 - Improve model accuracy through further training.
 - Deploy the application online.
-
-## Disclaimer
-This project is developed for educational purposes. Predictions may be incorrect and should not replace expert agricultural advice.
-
-## Author
-**Vaishnavi Dhumal**
